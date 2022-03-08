@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taka-pyt
-- 👀 I’m interested in Machine Learning and A.I.
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Machine Learning and Front-End
+- 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me - takashi.pyt@gmail.com
 
